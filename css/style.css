@@ -1,5 +1,5 @@
 html {
-  background-color: #fafafa;
+  background-color: #eaeaea;
   color: #222;
   font-family: "Georgia", serif;
   width: 80%;
@@ -15,8 +15,28 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
 }
 
+h1 {
+  text-transform: uppercase;
+}
+
+h2 {
+  color: orange;
+}
+
+.recipe-listing,
+.recipe-page {
+  background-color: #fff;
+  width: 800px;
+  margin: 24px auto 72px auto;
+  padding: 24px 16px;
+}
+
+.recipe-listing li {
+  margin-top: 16px;
+}
+
 img {
-  width: 50vw;
+  width: 100%;
   text-align: center;
 } 
 
