@@ -1,4 +1,8 @@
 # odin-recipes
-Foundations Course / HTML Foundations
+Exercise for the Odin Project - Foundations on HTML Foundations
 
-Exercise as part of the Odin Project / Foundations Course to build a simple HTML website. The website will consist of a main index page which will have links to a few recipes. 
+## Preview link
+[ To be added ]
+
+## Instructions
+The website will consist of a main index page which will have links to a few recipes. 
